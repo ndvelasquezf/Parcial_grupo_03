@@ -1,0 +1,22 @@
+1.Respuestas falso o verdadero.
+    
+    a. Verdadero
+    b. Falso
+    c. Falso
+    d. Verdadero
+    e. Verdadero
+    f. Falso-No genera error
+    g. Falso
+    h. No son equivalentes
+    i. [10,0]
+
+2. Gestión de exepciones.
+
+    a. 1. Verdadero-Si se ejecuta
+       2. Verdadero-Si es ejecutada
+       3. Falso-No es ejecutada
+    
+3. Polimorfismo, Herencia.
+
+    a. "Perfoms Faculty's tasks"
+    b. El programa compila y su ejecución da como resultado 1 0 5 
